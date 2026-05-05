@@ -8,7 +8,7 @@ English | [Italiano](README_it.md)
 
 This guide explains how to build a complete workflow for training a custom OCR model with PPOCRLabel and PaddleOCR, starting from image annotation and ending with an exported inference model ready for deployment.
 
-It is written for practical use on Windows-based development setups, but the same structure also applies to Linux with minor path adjustments.
+It is mainly written for Linux environments, but the same structure also applies to Windows with minor path adjustments.
 
 ## Scope
 
