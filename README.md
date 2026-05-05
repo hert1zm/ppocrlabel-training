@@ -1,4 +1,9 @@
 English | [Italiano](README_it.md)
+
+<div align="center">
+  <img src="imgs/demo.png" width="70%"/>
+</div>
+
 # PPOCRLabel and PaddleOCR Guide for Training Custom OCR Models
 
 This guide explains how to build a complete workflow for training a custom OCR model with PPOCRLabel and PaddleOCR, starting from image annotation and ending with an exported inference model ready for deployment.
