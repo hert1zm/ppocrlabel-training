@@ -1,4 +1,4 @@
-Italiano | [English](https://README.md)
+Italiano | [English](README.md)
 
 <div align="center">
   <img src="imgs/demo.png" width="70%"/>
